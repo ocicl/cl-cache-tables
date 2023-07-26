@@ -1,0 +1,10 @@
+* cl-cache-tables
+
+A wrapper around native hash-tables to facilitate in-process caching of common lisp data structures.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/diogoalexandrefranco/cl-cache-tables.git   |
+| commit  | 5846321  |
+| systems | cl-cache-tables |
+|---------+-------------------------------------------|
+
